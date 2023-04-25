@@ -1,4 +1,4 @@
-# Lnk2Exe
+# EmbedExeLnk 
 EmbedExeLnk by x86matthew modified by d4rkiZ
 
 
